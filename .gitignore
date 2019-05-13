@@ -1,0 +1,8 @@
+*.obj
+*.exe
+*.dll
+*Debug
+laba4\Debug
+laba4\obj
+laba4/obj/*
+.idea
