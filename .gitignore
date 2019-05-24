@@ -2,7 +2,7 @@
 *.exe
 *.dll
 *Debug
-laba4\Debug
-laba4\obj
-laba4/obj/*
-.idea
+lab6\Debug
+lab6\obj
+lab6/obj/*
+.idea *out\production\laba4
